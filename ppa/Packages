@@ -1,8 +1,8 @@
 Package: genvirus
-Version: 1.0
+Version: 0.0.1
 Architecture: all
 Maintainer: Sowmik <xowmik@gmail.com>
-Filename: ./genv.deb
+Filename: ./genvirus_0.0.1_amd64.deb
 Size: 676
 MD5sum: c0adbfaf6f6972afa1c3ce1abaf3b89b
 SHA1: 33bea060501861cd9dd6ad00f25f1489813c8fe9
